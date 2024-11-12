@@ -1547,7 +1547,7 @@ RECIPE {
     --main_product = "combustion-mixture1",
     subgroup = "py-combustion",
     order = "a"
-}:add_unlock("energy-2")
+}:add_unlock("steel-processing")
 
 ----energy drink----
 
